@@ -1,0 +1,3 @@
+root|localhost1
+admin|admin
+maxime|12345
